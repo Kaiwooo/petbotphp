@@ -1,0 +1,13 @@
+```json
+{
+    "name": "petpro/bitrix-openline-bot",
+    "description": "Minimal Bitrix OpenLine Bot",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "BitrixBot\\": "src/"
+        }
+    }
+}
