@@ -1,16 +1,13 @@
-```json
 {
-    "name": "Kaiwooo/petbotphp",
-    "name": "kaiwooo/petbotphp",
-    "description": "Minimal Bitrix OpenLine Bot",
-    "type": "project",
-    "require": {
-        "php": ">=7.4"
-        "php": ">=8.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "BitrixBot\\": "src/"
-        }
-    }
-}
++    "name": "kaiwooo/petbotphp",
+     "description": "Minimal Bitrix OpenLine Bot",
++    "type": "project",
+     "require": {
++        "php": ">=8.0"
+     },
+     "autoload": {
+         "psr-4": {
+             "BitrixBot\\": "src/"
+         }
+     }
+ }
