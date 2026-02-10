@@ -12,5 +12,5 @@
 
 1. Клонируем репозиторий:
 ```bash
-git clone https://github.com/Kaiwooo/bitrix-openline-bot.git
-cd bitrix-openline-bot
+git clone https://github.com/Kaiwooo/petbotphp.git
+cd petbotphp
