@@ -1,6 +1,6 @@
 ```json
 {
-    "name": "petpro/bitrix-openline-bot",
+    "name": "Kaiwooo/petbotphp",
     "description": "Minimal Bitrix OpenLine Bot",
     "require": {
         "php": ">=7.4"
